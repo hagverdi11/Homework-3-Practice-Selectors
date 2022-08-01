@@ -1,0 +1,94 @@
+/* p{
+    color:red;
+} */
+/* .test p{
+    color: blue;
+}
+
+.test.header{
+    background-color: aqua;
+}
+
+.test .name{
+    background-color: blueviolet;
+}
+
+#info{
+    border: 1px solid black;
+}
+
+*{
+    background-color: bisque;
+} */
+
+/* p.greetings{
+    background-color: chartreuse;
+} */
+
+/* .test .greetings:last-child{
+    background-color: yellow;
+} */
+
+/* .header, .footer{
+    background-color: tomato;
+} */
+
+/* #info .footer span{
+    background-color: aqua;
+} */
+
+/* #info .footer .second{
+    background-color: aqua;
+} */
+
+/* span a{
+    color: blue;
+}
+
+.footer>span{
+    background-color: purple;
+} */
+
+/* div + h3{
+    color: aqua;
+}
+
+ul li{
+    list-style: none;
+}
+ */
+ #selector a{
+    text-decoration: none;
+ } 
+
+ [target]{
+color: aqua;
+ }
+
+ /* .google:active{
+    background-color: brown;
+ } */
+
+ .google:hover{
+    background-color: brown;
+ }
+
+ input:checked{
+    width: 100px;
+    height: 100px;
+ }
+
+ input:checked:hover{
+    width: 200px;
+    height: 200px;
+    color: blueviolet;
+    opacity: 1;
+ }
+
+ .email:focus{
+    background-color: blue;
+ }
+
+
+
+ 
